@@ -28,7 +28,7 @@ resources:
   bugtracker: https://github.com/mikegrb/WebService-BasecampX/issues
   homepage: https://github.com/mikegrb/WebService-BasecampX
   repository: https://github.com/mikegrb/WebService-BasecampX.git
-version: 0.01
+version: 0.02
 x_contributors:
   - 'Rev Michael Greb <michael@thegrebs.com>'
   - 'mikegrb <mgreb@linode.com>'

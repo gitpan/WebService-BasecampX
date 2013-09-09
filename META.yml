@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
-generated_by: 'Dist::Milla version v1.0.4, Dist::Zilla version 4.300036, CPAN::Meta::Converter version 2.131560'
+generated_by: 'Dist::Milla version v1.0.4, Dist::Zilla version 4.300037, CPAN::Meta::Converter version 2.131560'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -28,7 +28,7 @@ resources:
   bugtracker: https://github.com/mikegrb/WebService-BasecampX/issues
   homepage: https://github.com/mikegrb/WebService-BasecampX
   repository: https://github.com/mikegrb/WebService-BasecampX.git
-version: 0.02
+version: 0.03
 x_contributors:
   - 'Rev Michael Greb <michael@thegrebs.com>'
   - 'mikegrb <mgreb@linode.com>'
